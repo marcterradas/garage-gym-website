@@ -1,7 +1,3 @@
-<p align='center'>
-  <img src='https://marcterradas.vercel.app/img/avatar.png' width='100'>
-</p>
-
 <h1 align='center'>Garage GYM Website</h1>
 
 <p>This is the repository of garage gym website <a href='https://garagegym.vercel.app'>website</a></p>
