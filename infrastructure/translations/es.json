@@ -6,6 +6,8 @@
     "author": "Marc Terradas Zapata"
   },
   "nav": {},
-  "main": {},
+  "main": {
+    "title": "Garage Gym"
+  },
   "footer": {}
 }
