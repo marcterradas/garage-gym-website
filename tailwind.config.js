@@ -6,7 +6,11 @@ module.exports = {
     "./infrastructure/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      spacing: {
+        144: "36rem",
+      },
+    },
   },
   plugins: [],
 };
