@@ -1,5 +1,9 @@
 {
-  "head": {},
+  "head": {
+    "keywords": "garagegym",
+    "description": "pàgina web Garage GYM",
+    "author": "Marc Terradas Zapata"
+  },
   "nav": {},
   "main": {},
   "footer": {}
