@@ -1,6 +1,7 @@
 import Head from "@/application/layout/Head";
 import Navbar from "@/application/layout/Navbar";
-//import Footer from "@/application/layout/Footer";
+import Main from "@/application/layout/Main";
+import Footer from "@/application/layout/Footer";
 
 export default function Home() {
   return (
@@ -8,7 +9,8 @@ export default function Home() {
       <Head />
       <div className="px-4 m-auto max-w-screen-2xl">
         <Navbar />
-        {/* <Footer /> */}
+        <Main />
+        <Footer />
       </div>
     </>
   );
