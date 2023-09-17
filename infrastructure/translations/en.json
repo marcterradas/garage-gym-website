@@ -7,7 +7,8 @@
   },
   "nav": {},
   "main": {
-    "title": "Garage Gym"
+    "title": "Garage Gym",
+    "subtitle": "Description in english ..."
   },
   "footer": {}
 }
